@@ -135,21 +135,21 @@ a:hover, a:active, a:focus {
 }
 
 .timeline-item:nth-child(1) .timeline-img-header {
-  background: url("/Users/ana.freire/Documents/GitHub/she-timeline.github.io/images/ElisaLeonida.png") center center no-repeat;
+  background: url("../images/ElisaLeonida.png") center center no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(2) .timeline-img-header {
-  background: url("/Users/ana.freire/Documents/GitHub/she-timeline.github.io/images/ElisaBachofen.png") center center no-repeat;
+  background: url("../images/ElisaBachofen.png") center center no-repeat;
   background-size: cover;
 }
 
 .timeline-item:nth-child(3) .timeline-img-header {
-  background: url("/Users/ana.freire/Documents/GitHub/she-timeline.github.io/images/PilarCareaga.png") center center no-repeat;
+  background: url("../images/PilarCareaga.png") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(4) .timeline-img-header {
-  background: url("/Users/ana.freire/Documents/GitHub/she-timeline.github.io/images/Portugal.png") center center no-repeat;
+  background: url("../images/Portugal.png") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(5) .timeline-img-header {
